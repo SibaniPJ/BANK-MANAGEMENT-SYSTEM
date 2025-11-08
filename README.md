@@ -23,13 +23,13 @@ MySQL for storing account data
 signup page
 ![Bank Management System Screenshot](https://raw.githubusercontent.com/SibaniPJ/BANK-MANAGEMENT-SYSTEM/main/Screenshot%202025-11-08%20163258.png)
 Application page
-![Bank Management System Screenshot](https://github.com/SibaniPJ/BANK-MANAGEMENT-SYSTEM/blob/main/Screenshot%202025-11-08%20163314.png).
+![Bank Management System Screenshot](https://github.com/SibaniPJ/BANK-MANAGEMENT-SYSTEM/blob/main/Screenshot%202025-11-08%20163314.png)
 transaction page
-![Bank Management System Screenshot](https://github.com/SibaniPJ/BANK-MANAGEMENT-SYSTEM/blob/main/Screenshot%202025-11-08%20163609.png).
+![Bank Management System Screenshot](https://github.com/SibaniPJ/BANK-MANAGEMENT-SYSTEM/blob/main/Screenshot%202025-11-08%20163609.png)
 Deposit page
-![Bank Management System Screenshot](https://github.com/SibaniPJ/BANK-MANAGEMENT-SYSTEM/blob/main/Screenshot%202025-11-08%20163638.png).
+![Bank Management System Screenshot](https://github.com/SibaniPJ/BANK-MANAGEMENT-SYSTEM/blob/main/Screenshot%202025-11-08%20163638.png)
 Withdrawal page
-![Bank Management System Screenshot](https://github.com/SibaniPJ/BANK-MANAGEMENT-SYSTEM/blob/main/Screenshot%202025-11-08%20163653.png).
+![Bank Management System Screenshot](https://github.com/SibaniPJ/BANK-MANAGEMENT-SYSTEM/blob/main/Screenshot%202025-11-08%20163653.png)
 
 
 ## Usage
